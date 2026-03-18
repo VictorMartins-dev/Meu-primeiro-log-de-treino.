@@ -1,0 +1,7 @@
+# Ignorar arquivos de dados de teste
+clientes.txt
+*.txt
+
+# Ignorar pastas geradas pelo Python
+__pycache__/
+*.pyc
