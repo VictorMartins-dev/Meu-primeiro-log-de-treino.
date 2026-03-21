@@ -1,11 +1,11 @@
-# 🏋️‍♂️ Log de Treino & Cadastro 📝
+# 🏋️‍♂️ Log de Treino, Boletim & Cadastro 📝
 
-Repositório criado para consolidar estudos de **Python** e **Lógica de Programação**.
+Este repositório contém meus exercícios e projetos desenvolvidos durante o curso de Engenharia de Software.
 
 ### 🚀 Funcionalidades
-- Cadastro de clientes com persistência em arquivos.
-- Gerenciamento de treinos diários.
-- Uso de `.gitignore` para proteção de dados.
+* **Boletim Simples:** Sistema para cálculo de médias e notas.
+* **Cadastro de Clientes:** Script para gerenciamento de dados básicos.
+* **Programa de Treino:** Organizador de rotinas de exercícios.
 
 ### 💻 Tecnologias
 - Python 3.14
